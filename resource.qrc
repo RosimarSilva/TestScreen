@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imagesInit/loading_0.bmp</file>
+        <file>imagesInit/loading_1.bmp</file>
+        <file>imagesInit/loading_2.bmp</file>
+        <file>imagesInit/loading_3.bmp</file>
+        <file>imagesInit/loading_4.bmp</file>
+        <file>imagesInit/loading_5.bmp</file>
+        <file>imagesInit/loading_6.bmp</file>
+        <file>imagesInit/loading_7.bmp</file>
+        <file>imagesInit/loading_8.bmp</file>
+        <file>imagesInit/loading_9.bmp</file>
+        <file>imagesInit/loading_10.bmp</file>
+        <file>imagesInit/telaInit.bmp</file>
+    </qresource>
+</RCC>
